@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(58, 56, 56);
+    background-image: url(fundo-imagem.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(155, 255, 255);
+    font-size: 60px;
+    font-family: Gigi;
+}
+
+p {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: Impact;
+}
+
+button {
+    display: block;
+    margin: 30px auto;
+    background-color: rgb(62, 157, 221);
+    border-radius: 10px;
+}
+
+a {
+    display: block;
+    color: aliceblue;
+    text-decoration: none;
+    margin: 8px;
+}
